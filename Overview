@@ -1,0 +1,103 @@
+# 🔐 SentinelX AI Cyber Defense System
+
+An AI-powered cybersecurity threat intelligence platform designed to analyze IP addresses, detect suspicious network behavior, visualize cyber activity, and provide interactive threat analytics using Machine Learning and real-time IP intelligence APIs.
+
+---
+
+# 🚀 Live Demo
+
+https://sentinelx-ai-cyber-defense-system-mdrpjytwcmtynqwusayemw.streamlit.app
+
+---
+
+# 📂 GitHub Repository
+
+https://github.com/bhargav-62/SentinelX-AI-Cyber-Defense-System
+
+---
+
+# 📌 Features
+
+✅ Public IP Address Intelligence Analysis  
+✅ Geolocation Tracking using IP APIs  
+✅ Organization and Timezone Detection  
+✅ Interactive Cybersecurity Dashboard  
+✅ Machine Learning Based Threat Detection  
+✅ Isolation Forest Anomaly Detection  
+✅ Simulated Network Activity Monitoring  
+✅ Threat Status Identification  
+✅ Interactive Analytics Charts  
+✅ Live Deployment using Streamlit Cloud
+
+---
+
+# 🛠️ Technologies Used
+
+- Python
+- Streamlit
+- Pandas
+- Scikit-learn
+- Plotly
+- Requests API
+- Isolation Forest Algorithm
+
+---
+
+# 🧠 Machine Learning Concept
+
+The project uses the Isolation Forest Machine Learning algorithm to identify suspicious and anomalous network activities based on:
+
+- Request Count
+- Failed Login Attempts
+- Data Transfer Volume
+
+Activities identified as abnormal are classified as suspicious threats.
+
+---
+
+# 🌍 IP Intelligence Information
+
+The platform fetches real-time IP information including:
+
+- IP Address
+- City
+- Country
+- Organization
+- Approximate Location
+- Timezone
+
+using public IP intelligence APIs.
+
+---
+
+# 📊 Dashboard Modules
+
+## 🔹 Security Overview
+Displays:
+- Threat Level
+- Request Metrics
+- System Status
+- Number of IPs Analyzed
+
+## 🔹 IP Intelligence
+Shows detailed IP information and geolocation data.
+
+## 🔹 Approximate IP Location
+Visualizes IP location on an interactive map.
+
+## 🔹 Network Activity Analysis
+Displays:
+- Requests
+- Failed Logins
+- Data Transfer
+
+using interactive analytics charts.
+
+---
+
+# ▶️ Installation & Run Locally
+
+## Step 1: Clone Repository
+
+```bash
+git clone https://github.com/bhargav-62/SentinelX-AI-Cyber-Defense-System.git
